@@ -1,0 +1,23 @@
+Partlist
+
+Exported from CanSat Circuit Diagram.sch at 03/07/2015 20:27:03
+
+EAGLE Version 7.2.0 Copyright (c) 1988-2014 CadSoft
+
+Assembly variant: 
+
+Part                  Value          Device               Package        Library                    Sheet
+
+BOOSTCONVERTER        3.3 - 5V       V_REG_NCP1400SOT23-5 SOT23-5        SparkFun-PowerIC           1
+C1                    0.1uF          CAP                  C0805          sym                        1
+HOPE-RFM98W           RF MODULE      HOPEA                HOPE           Hope                       1
+HUMIDITYSENSOR        HYT271A        HYT271A              HYT271         HYT271                     1
+M1                    SMALL_SERVO    SMALL_SERVO          1X03           SparkFun-Electromechanical 1
+M2                    SMALL_SERVO    SMALL_SERVO          1X03           SparkFun-Electromechanical 1
+M3                    SMALL_SERVO    SMALL_SERVO          1X03           SparkFun-Electromechanical 1
+M4                    SMALL_SERVO    SMALL_SERVO          1X03           SparkFun-Electromechanical 1
+PRESSURESENSOR        MC5637A        MC5637A              MS5637         cansat                     1
+R1                    10k            FLIPFLOP-RES         0805-THM       adafruit                   1
+R2                    10k            FLIPFLOP-RES         0805-THM       adafruit                   1
+TRIMBLE-COPERNICUS-II GPS SENSOR     COPERNICUS-DIPPTH    COPERNICUS-DIP SparkFun-RF                1
+U$1                   TEENSY_3.1+4   TEENSY_3.1+4         TEENSY_3.1+4   Teensy_3_Series_Board_v1.0 1
